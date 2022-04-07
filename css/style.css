@@ -1,0 +1,11 @@
+.temp {
+    width:80%;
+    margin:50px auto;
+
+}
+.carousel-item {
+    height:400px;
+}
+.carousel-item .active {
+    display: flex;
+}
